@@ -1,0 +1,24 @@
+{
+  "name": "pinboard-api",
+  "version": "1.0.0",
+  "description": "A free, CORS-enabled version of the Pinboard public feeds API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "micro-dev",
+    "start": "micro"
+  },
+  "keywords": [
+    "pinboard",
+    "API"
+  ],
+  "author": "Zander Martineau",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "micro": "^9.0.2"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.1.2"
+  }
+}
