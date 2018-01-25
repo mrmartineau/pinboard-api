@@ -16,7 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.17.1",
-    "micro": "^9.0.2"
+    "micro": "^9.0.2",
+    "micro-cors": "^0.1.0"
   },
   "devDependencies": {
     "micro-dev": "^2.1.2"
