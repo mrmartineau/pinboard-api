@@ -15,11 +15,11 @@
   "author": "Zander Martineau",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.17.1",
-    "micro": "^9.0.2",
+    "axios": "^0.18.0",
+    "micro": "^9.1.4",
     "micro-cors": "^0.1.0"
   },
   "devDependencies": {
-    "micro-dev": "^2.1.2"
+    "micro-dev": "^2.2.2"
   }
 }
