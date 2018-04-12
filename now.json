@@ -1,4 +1,10 @@
 {
   "name": "pinboard-api",
-  "alias": "pinboard-api.now.sh"
+  "alias": "pinboard-api.now.sh",
+  "scale": {
+    "bru1": {
+      "min": 1,
+      "max": 1
+    }
+  }
 }
